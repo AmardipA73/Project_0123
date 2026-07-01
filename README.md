@@ -56,7 +56,7 @@ This project was created to practice:
 
 ## 👨‍💻 Author
 
-Developed by **Your Name**
+Developed by **Amardip**
 
 ---
 
